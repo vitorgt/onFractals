@@ -4,7 +4,7 @@
 
 My name is Vitor. I want to study the world of Fractals, where they live, what they eat, how to make them, et cetera, I also want to share what I learn, because I believe that knowledge must be free and accessible to every single person on earth, so I intend to make all of this very simple and clear.
 
-1. [What are Fractals](01-WhatAreFractals/README.md) is an introduction to some basic geometry of fractal sets, with emphasis on the Iterated Function System (IFS) formalism for generating fractals.
+1. [What are Fractals](01-WhatAreFractals) is an introduction to some basic geometry of fractal sets, with emphasis on the Iterated Function System (IFS) formalism for generating fractals.
 
 # References
 
