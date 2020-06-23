@@ -1,0 +1,11 @@
+# Disclaimer
+
+I do **not** own the following pictures, but they have Creative Commons licenses that allow sharing.
+
+- [2268587409_45b9f80b0e_c.jpg](images/2268587409_45b9f80b0e_c.jpg): "[Honeycomb](https://www.flickr.com/photos/krayker/2268587409)" by [Karunakar Rayker](https://www.flickr.com/photos/krayker/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- [Blue_morpho_butterfly.jpg](images/Blue_morpho_butterfly.jpg): "[Blue morpho butterfly](https://commons.wikimedia.org/wiki/File:Blue_morpho_butterfly.jpg)" by [Gregory Phillips](https://en.wikipedia.org/wiki/User:Hadal) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
+- [Group_action_on_equilateral_triangle.svg](images/Group_action_on_equilateral_triangle.svg) "[Group action on equilateral triangle](https://commons.wikimedia.org/wiki/File:Group_action_on_equilateral_triangle.svg)" by [Oleg Alexandrov](https://commons.wikimedia.org/wiki/User:Oleg_Alexandrov) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Mandelbrot_sequence_new.gif](images/Mandelbrot_sequence_new.gif): "[Mandelbrot sequence new](https://en.wikipedia.org/wiki/File:Mandelbrot_sequence_new.gif)" by [Simpsons contributor](https://en.wikipedia.org/wiki/User:Simpsons_contributor) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+- [piqsels.com-id-smdgp.jpg](images/piqsels.com-id-smdgp.jpg): "[Untitled](https://www.piqsels.com/en/public-domain-photo-smdgp)" by [Unknown](https://www.piqsels.com/en/public-domain-photo-smdgp) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Symmetry.png](images/Symmetry.png): "[Symmetry](https://commons.wikimedia.org/wiki/File:Symmetry.png)" by [Loggie](https://en.wikipedia.org/wiki/User:Loggie) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Translation_of_a_set.svg](images/Translation_of_a_set.svg): "[Translation of a set](https://en.wikipedia.org/wiki/File:Translation_of_a_set.svg)" by [Stephan Kulla](https://commons.wikimedia.org/wiki/User:Stephan_Kulla) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en).
