@@ -1,6 +1,4 @@
-# README
-
-## Study on Fractals
+# Study on Fractals
 
 > Oh hi! Welcome! 😄
 

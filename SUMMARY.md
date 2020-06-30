@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Study on Fractals](README.md)
 * [Disclaimer](images.md)
-* [README](01-whatarefractals.md)
+* [What Are Fractals?!](01-whatarefractals.md)
 

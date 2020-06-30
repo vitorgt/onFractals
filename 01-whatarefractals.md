@@ -1,6 +1,4 @@
-# README
-
-## What Are [Fractals](https://en.wikipedia.org/wiki/Fractal)?!
+# What Are Fractals?!
 
 ![Mandelbrot set zoom.](.gitbook/assets/Mandelbrot_sequence_new.gif)
 
